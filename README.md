@@ -44,11 +44,41 @@ I am a **Software Engineering student** and an **Intern Frontend Developer** tra
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feng1907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Phong's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng1907&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Feng1907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Phong's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng1907&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feng1907&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+</div>### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Feng1907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Phong's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng1907&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feng1907&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
 
 ---
 
