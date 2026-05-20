@@ -1,16 +1,24 @@
+<div align="center">
+
 # 🚀 Hi, I'm Duong An Phong (Feng)
 
 <a href="https://github.com/Feng1907">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=false&vCenter=true&width=800&height=45&lines=Software+Engineering+Student;Intern+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Duong+An+Phong+(Feng);Software+Engineering+Student;Intern+Frontend+Developer" alt="Typing SVG" />
 </a>
 
 ### 👨‍💻 About Me
 I am a **Software Engineering student** and an **Intern Frontend Developer** transitioning into a Full-stack mindset. I have a strong passion for building scalable web applications and high-performance mobile interfaces.
 
+<div align="left" style="display: inline-block; max-width: 600px;">
+
 - 🌱 Currently focusing on **Full-stack Web Development** and **Mobile ecosystems**.
 - 🛠️ Dedicated to writing **clean, maintainable code** and ensuring product quality through **Automation Testing**.
 - 🔍 Always exploring architectural patterns to bridge the gap between Frontend and Backend.
 - ⚡ Fun fact: My background in **photography** gives me a unique perspective on UI/UX aesthetics and pixel-perfect layouts.
+
+</div>
+
+</div>
 
 ---
 
@@ -62,7 +70,7 @@ I am a **Software Engineering student** and an **Intern Frontend Developer** tra
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&theme=tokyonight&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&theme=tokyonight&theme=tokyonight&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" alt="Activity Graph" width="100%" />
 </p>
 
 ---
