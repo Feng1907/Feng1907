@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Feng1907">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Duong+An+Phong+(Feng)+👋;Software+Engineering+Student;Intern+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Duong+An+Phong+%28Feng%29+👋;Software+Engineering+Student;Intern+Frontend+Developer" alt="Typing SVG" />
 </a>
 
 ### 👨‍💻 About Me
