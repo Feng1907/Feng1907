@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=45&lines=Hi%2C%20I'm%20Duong%20An%20Phong%20%28Feng%29;Software%20Engineering%20Student;Intern%20Frontend%20Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=45&lines=Hi%2C%20I'm%20Duong%20An%20Phong%20%28Feng%29;Intern%20Frontend%20Developer;Full-stack%20Web%20Developer" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
 ### 👨‍💻 About Me
-I am a **Software Engineering student** and an **Intern Frontend Developer** transitioning into a Full-stack mindset. I have a strong passion for building scalable web applications and high-performance mobile interfaces.
+I am an **Intern Frontend Developer** transitioning into a Full-stack mindset. I have a strong passion for building scalable web applications and high-performance mobile interfaces.
 
 <div align="left" style="display: inline-block; max-width: 600px;">
 
@@ -62,17 +62,4 @@ I am a **Software Engineering student** and an **Intern Frontend Developer** tra
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feng1907&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&theme=tokyonight&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duongphong197)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anphong.duong19@gmail.com)
+  <img src="https://
