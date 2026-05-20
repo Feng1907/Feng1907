@@ -1,8 +1,8 @@
-<div align="center">
-
-<a href="https://github.com/Feng1907">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Duong+An+Phong+%28Feng%29+👋;Software+Engineering+Student;Intern+Frontend+Developer" alt="Typing SVG" />
-</a>
+</p>
+
+<div align="center">
 
 ### 👨‍💻 About Me
 I am a **Software Engineering student** and an **Intern Frontend Developer** transitioning into a Full-stack mindset. I have a strong passion for building scalable web applications and high-performance mobile interfaces.
