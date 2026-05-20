@@ -1,5 +1,9 @@
 # 🚀 Hi, I'm Duong An Phong (Feng)
 
+<a href="https://github.com/Feng1907">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=false&vCenter=true&width=800&height=45&lines=Software+Engineering+Student;Intern+Frontend+Developer" alt="Typing SVG" />
+</a>
+
 ### 👨‍💻 About Me
 I am a **Software Engineering student** and an **Intern Frontend Developer** transitioning into a Full-stack mindset. I have a strong passion for building scalable web applications and high-performance mobile interfaces.
 
@@ -39,8 +43,8 @@ I am a **Software Engineering student** and an **Intern Frontend Developer** tra
 
 ### 📂 Featured Projects
 *Explore my core engineering work:*
-- **OptiStock**: A comprehensive inventory management system focused on real-world business logic.
-- **SoundSpace**: A real-time music interaction platform built with modern web technologies.
+- 📦 **OptiStock**: A comprehensive inventory management system focused on real-world business logic and high-performance data processing.
+- 🎵 **SoundSpace**: A real-time music interaction and social platform built with modern web architectures.
 
 ---
 
@@ -60,7 +64,6 @@ I am a **Software Engineering student** and an **Intern Frontend Developer** tra
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&theme=tokyonight&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" alt="Activity Graph" width="100%" />
 </p>
-
 
 ---
 
