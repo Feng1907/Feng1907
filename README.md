@@ -1,78 +1,146 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&height=45&lines=Hi%2C%20I'm%20Duong%20An%20Phong%20%28Feng%29;Intern%20Frontend%20Developer;Crafting%20High-Performance%20%26%20Pixel-Perfect%20Web%20Solutions" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&height=70&lines=Hi%2C+I'm+Duong+An+Phong+(Feng);Frontend+Developer+%7C+Full-stack+Enthusiast;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+UI%2FUX+%7C+Performance" alt="Typing SVG" />
+</a>
+
+<br />
+
+<a href="https://www.linkedin.com/in/duongphong197">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:anphong.duong19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/Feng1907">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br />
 
 <div align="center">
 
-### 👨‍💻 About Me
-I am an **Intern Frontend Developer** transitioning into a Full-stack mindset. I have a strong passion for building scalable web applications and high-performance mobile interfaces.
+## About Me
 
-<div align="left" style="display: inline-block; max-width: 600px;">
+I'm a **Frontend Developer** with a growing **full-stack mindset** — focused on shipping interfaces that are fast, accessible, and built to scale.
 
-- 🌱 Currently focusing on **Full-stack Web Development** and **Mobile ecosystems**.
-- 🛠️ Dedicated to writing **clean, maintainable code** and ensuring product quality through **Automation Testing**.
-- 🔍 Always exploring architectural patterns to bridge the gap between Frontend and Backend.
-- ⚡ Fun fact: My background in **photography** gives me a unique perspective on UI/UX aesthetics and pixel-perfect layouts.
+🎯 I care about **clean code**, **scalable architecture**, and **maintainable systems**.
+
+⚡ I obsess over **performance** and **responsive UI/UX** — interfaces that feel effortless on every device.
+
+📐 A background in **photography** sharpens my eye for **layout, composition, and pixel-perfect design**.
+
+🚀 Always expanding from the frontend into the **full stack** — APIs, data modeling, and infrastructure.
+
+> Strong frontend foundations, an engineering mindset, and a deliberate push toward end-to-end ownership.
 
 </div>
 
+<br />
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+  </td>
+    <td valign="top" width="50%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+  </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+  </td>
+    <td valign="top" width="50%">
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+  </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+
+**Testing & Tooling**
+
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
+<br />
+
+## Featured Projects
+
+| Project | Description | Focus Areas |
+| :--- | :--- | :--- |
+| **🗃️ OptiStock** | Inventory management system designed around real business workflows. | Workflow optimization · Scalable architecture · RBAC · Efficient data handling |
+| **🎵 SoundSpace** | Real-time music interaction and social platform. | Modern UI/UX · Real-time interaction · Responsive frontend architecture |
+| **✅ TaskFlow** | Full-stack task management system for teams. | Team collaboration · Role-based permissions · Productivity workflows · Dashboard UX |
+
+<br />
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feng1907&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng1907&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Feng1907&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&hide_border=true&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
+
 </div>
 
----
+<br />
 
-### 🛠️ Tech Stack & Tools
+## Let's Connect
 
-#### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-#### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+I'm open to **collaboration, opportunities, and meaningful engineering conversations**.
 
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<a href="https://www.linkedin.com/in/duongphong197">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:anphong.duong19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<br /><br />
 
-#### 🧪 Testing & Tools
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=Feng1907&style=flat-square&color=7AA2F7" alt="Profile Views" />
 
----
-
-### 📂 Featured Projects
-*Explore my core engineering work:*
-- 📦 **OptiStock**: A comprehensive inventory management system focused on real-world business logic and high-performance data processing.
-- 🎵 **SoundSpace**: A real-time music interaction and social platform built with modern web architectures.
-
----
-
-### 📊 GitHub Analytics
-
-| <a href="https://github.com/Feng1907"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Feng1907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="460" /></a> | <a href="https://github.com/Feng1907"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng1907&layout=compact&theme=tokyonight&hide_border=true" width="460" /></a> |
-| :--- | :--- |
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feng1907&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&theme=tokyonight&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duongphong197)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anphong.duong19@gmail.com)
+</div>
