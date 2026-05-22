@@ -103,7 +103,7 @@ I'm a **Frontend Developer** with a growing **full-stack mindset** — focused o
 | :--- | :--- | :--- |
 | **🗃️ OptiStock** | Inventory management system designed around real business workflows. | Workflow optimization · Scalable architecture · RBAC · Efficient data handling |
 | **🎵 SoundSpace** | Real-time music interaction and social platform. | Modern UI/UX · Real-time interaction · Responsive frontend architecture |
-| **✅ TaskFlow** | Full-stack task management system for teams. | Team collaboration · Role-based permissions · Productivity workflows · Dashboard UX |
+| **🛍️ OmniShop** | Full-stack e-commerce platform with dynamic storefront. | Dynamic storefront · Payment integration · State management |
 
 <br />
 
