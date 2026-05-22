@@ -111,16 +111,16 @@ I'm a **Frontend Developer** with a growing **full-stack mindset** — focused o
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Feng1907&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Feng1907&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feng1907&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feng1907&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <br /><br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Feng1907&theme=tokyonight&column=7" alt="GitHub Trophy" />
 
   <br /><br />
 
   <img src="https://streak-stats.demolab.com?user=Feng1907&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-
-  <br /><br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&hide_border=true&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
