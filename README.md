@@ -122,6 +122,10 @@ I'm a **Frontend Developer** with a growing **full-stack mindset** — focused o
 
   <img src="https://streak-stats.demolab.com?user=Feng1907&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
+  <br /><br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feng1907&hide_border=true&theme=tokyo-night&area=true" alt="GitHub Activity Graph" />
+
 </div>
 
 ## Let's Connect
