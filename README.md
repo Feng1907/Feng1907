@@ -106,21 +106,3 @@ I'm a **Frontend Developer** with a growing **full-stack mindset** — focused o
 
 </div>
 
-## Let's Connect
-
-<div align="center">
-
-I'm open to **collaboration, opportunities, and meaningful engineering conversations**.
-
-<a href="https://www.linkedin.com/in/duongphong197">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:anphong.duong19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Feng1907&style=flat-square&color=7AA2F7" alt="Profile Views" />
-
-</div>
