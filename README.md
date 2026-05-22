@@ -12,12 +12,19 @@
 <a href="mailto:anphong.duong19@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+<a href="https://github.com/Feng1907">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I0c3Z5N3R3cXN6M3R5bTR3ZzI0bXp6ZzI0bXp6ZzI0bXp6Zg/vQqeTspgt7fSFF9_art/giphy.gif" alt="Coding Animation" width="100%" style="max-width: 550px;" />
 
 </div>
 
 <br />
 
-<div >
+<div>
 
 ## About Me
 
@@ -105,4 +112,3 @@ I'm a **Frontend Developer** with a growing **full-stack mindset** — focused o
   <img src="https://streak-stats.demolab.com?user=Feng1907&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
-
