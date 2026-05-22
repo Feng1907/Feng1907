@@ -12,13 +12,10 @@
 <a href="mailto:anphong.duong19@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://github.com/Feng1907">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 <br /><br />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3I0c3Z5N3R3cXN6M3R5bTR3ZzI0bXp6ZzI0bXp6ZzI0bXp6Zg/vQqeTspgt7fSFF9_art/giphy.gif" alt="Coding Animation" width="100%" style="max-width: 550px;" />
+<img src="https://i.pinimg.com/originals/9f/fa/6e/9ffa6e3f30b91500473950fb237e17cb.gif" alt="Coding Animation" width="100%" style="max-width: 500px; border-radius: 8px;" />
 
 </div>
 
