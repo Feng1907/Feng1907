@@ -14,12 +14,23 @@
 ---
 
 ## 💫 About Me
-I am a **Frontend Developer** with a sharp engineering mindset and a growing full-stack perspective. My approach to development goes beyond just writing code; I am dedicated to building high-performance, accessible, and scalable web applications that solve real-world business problems.
-
-*   **Design-Driven Engineering:** Leveraging my background in **photography**, I bring a unique, pixel-perfect attention to detail to every UI/UX implementation.
-*   **Performance & Quality:** I prioritize **clean code**, maintainable architecture, and robust testing (Cypress/Selenium) to ensure long-term system stability.
-*   **End-to-End Mindset:** I thrive on taking ownership, expanding my expertise from polished client-side interfaces to robust server-side logic and data modeling.
-*   **Continuous Growth:** I am deeply committed to staying at the forefront of modern web technologies, always seeking to optimize workflows and deliver maximum value in collaborative environments.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      I am a <strong>Frontend Developer</strong> with a sharp engineering mindset and a growing full-stack perspective. My approach to development goes beyond just writing code; I am dedicated to building high-performance, accessible, and scalable web applications that solve real-world business problems.
+      <br><br>
+      <ul>
+        <li><strong>Design-Driven Engineering:</strong> Leveraging my background in <strong>photography</strong>, I bring a unique, pixel-perfect attention to detail to every UI/UX implementation.</li>
+        <li><strong>Performance & Quality:</strong> I prioritize <strong>clean code</strong>, maintainable architecture, and robust testing (Cypress/Selenium) to ensure long-term system stability.</li>
+        <li><strong>End-to-End Mindset:</strong> I thrive on taking ownership, expanding my expertise from polished client-side interfaces to robust server-side logic and data modeling.</li>
+        <li><strong>Continuous Growth:</strong> I am deeply committed to staying at the forefront of modern web technologies, always seeking to optimize workflows and deliver maximum value in collaborative environments.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="400" />
+    </td>
+  </tr>
+</table>
 
 ---
 
