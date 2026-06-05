@@ -1,7 +1,16 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&height=70&pre=Hi%2C+I'm+Duong+An+Phong+(Feng)+-+&lines=Frontend+Developer;Full-stack+Enthusiast;Building+Scalable+Web+Apps&refresh=true" alt="Typing SVG" />
+</div>
+
+<div>
 
 # 💫 About Me:
-I'm a Frontend Developer with a growing full-stack mindset — focused on shipping interfaces that are fast, accessible, and built to scale.<br><br>🎯 I care about clean code, scalable architecture, and maintainable systems.<br><br>⚡ I obsess over performance and responsive UI/UX — interfaces that feel effortless on every device.<br><br>📐 A background in photography sharpens my eye for layout, composition, and pixel-perfect design.<br><br>🚀 Always expanding from the frontend into the full stack — APIs, data modeling, and infrastructure.<br><br>Strong frontend foundations, an engineering mindset, and a deliberate push toward end-to-end ownership.
+I am a **Frontend Developer** with a sharp engineering mindset and a growing full-stack perspective. My approach to development goes beyond just writing code; I am dedicated to building high-performance, accessible, and scalable web applications that solve real-world business problems.
+
+*   **Design-Driven Engineering:** Leveraging my background in **photography**, I bring a unique, pixel-perfect attention to detail to every UI/UX implementation.
+*   **Performance & Quality:** I prioritize **clean code**, maintainable architecture, and robust testing (Cypress/Selenium) to ensure long-term system stability.
+*   **End-to-End Mindset:** I thrive on taking ownership, expanding my expertise from polished client-side interfaces to robust server-side logic and data modeling.
+*   **Continuous Growth:** I am deeply committed to staying at the forefront of modern web technologies, always seeking to optimize workflows and deliver maximum value in collaborative environments.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/feng_1907) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anphong.duong.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_an.fong_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duongphong197/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_an.fong_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anphong.duong19@gmail.com) 
