@@ -79,11 +79,7 @@ I am a **Frontend Developer** with a sharp engineering mindset and a growing ful
 # 📊 GitHub Analytics & Snake:
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Feng1907/Feng1907/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Feng1907/Feng1907/output/github-snake-light.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Feng1907/Feng1907/output/github-snake-light.svg">
-  </picture>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Feng1907/Feng1907/output/github-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9">
 </div>
 
 <br/>
