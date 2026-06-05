@@ -2,8 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Chạy mỗi ngày một lần
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# THÊM ĐOẠN PERMISSIONS NÀY VÀO
+permissions:
+  contents: write
 
 jobs:
   build:
